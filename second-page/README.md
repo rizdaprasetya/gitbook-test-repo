@@ -41,9 +41,9 @@ Code block
 {% endtab %}
 {% endtabs %}
 
-{% page-ref page="./" %}
+{% page-ref page="../" %}
 
-{% page-ref page="./" %}
+{% page-ref page="../" %}
 
 
 
